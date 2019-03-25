@@ -1,0 +1,15 @@
+#contener {
+    width:400px;
+    height:400px;
+    }
+    
+#image {
+    position:relative;
+    z-index:1;
+    }
+    
+#texte {
+    position:absolute;
+    z-index:10;
+    background:transparent;
+    }
